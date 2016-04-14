@@ -2,7 +2,7 @@ package byteshelper
 
 import (
 	"bytes"
-	"math"
+//	"math"
 	"testing"
 )
 //TODO add more tests
